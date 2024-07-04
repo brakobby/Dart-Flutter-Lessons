@@ -21,7 +21,7 @@ void main(){
   var year_of_birth = current_age - input_age;
   
   // finally lets display the year of birth on the screen in a formated method
-  print("Hello User, you were birthed on $year_of_birth")
+  print("Hello User, you were birthed on $year_of_birth");
 
 
 
